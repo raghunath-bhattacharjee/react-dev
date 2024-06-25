@@ -5,7 +5,7 @@ const heading = React.createElement(
   {
     id: "heading",
   },
-  "Hello World"
+  "Hello World!"
 );
 
 const title = React.createElement(
